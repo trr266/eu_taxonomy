@@ -1,0 +1,161 @@
+company;isin;index;drop;too_late;too_early;sector;supersektor;publication_date;fy_end;is_tax_in_ar;only_perc;elig_rev_abs;elig_capex_abs;elig_opex_abs;elig_rev_perc;elig_capex_perc;elig_opex_perc;alig_rev_abs;alig_capex_abs;alig_opex_abs;alig_rev_perc;alig_capex_perc;alig_opex_perc;rev_total;capex_total;opex_total;no_pages
+Adidas;DE000A1EWWW0;DAX;;;;Consumer;Consumer Goods;09.03.2022;31.12.;yes;no;0;604;ins;0;51;0;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;21234;1188;692;1,5
+Airbus;NL0000235190;DAX;;;;Industrial;Industrials;17.02.2022;31.12.;yes;no;0;0;0;0;0;0;0;0;0;0;0;0;52149;1928;2746;n.a.
+Allianz;DE0008404005;DAX;x;;;Insurance;FIRE;04.03.2022;31.12.;yes;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;3
+BASF;DE000BASF111;DAX;;;;Chemicals;Basic Materials;25.02.2022;31.12.;yes;no;8881;1340;504;11;29;11;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;78598;4627;4424;1
+Bayer;DE000BAY0017;DAX;;;;Chemicals;Basic Materials;01.03.2022;31.12.;yes;no;0;276;0;0;8,8;0;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;44081;3126;6757;1,5
+BMW;DE0005190003;DAX;;;;Automobile;Consumer Goods;16.03.2022;31.12.;yes;no;92262;25917;4478;82,9;99,7;100;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;111239;25984;4478;3
+Brenntag;DE000A1DAHH0;DAX;;;;Industrial;Industrials;09.03.2022;31.12.;no;yes;0;n.a.;n.a.;0;1,5;0,2;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;14383;n.a.;n.a.;n.a.
+Continental;DE0005439004;DAX;;;;Automobile;Consumer Goods;21.03.2022;31.12.;yes;yes;979;n.a.;n.a.;2,9;3;2,9;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;33765;n.a.;n.a.;2
+Covestro;DE0006062144;DAX;;;;Chemicals;Basic Materials;01.03.2022;31.12.;yes;yes;5089;212;294;32;8,3;25,6;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;15903;2552;1147;3
+Daimler Truck Holding;DE000DTR0CK8;DAX;;;;Industrial;Industrials;24.03.2022;31.12.;yes;no;39764;2164;1644;100;100;100;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;39764;2164;1644;2
+Delivery Hero;DE000A2E4K43;DAX;;x;;Retail;Consumer Services;28.04.2022;31.12.;yes;yes;1405;n.a.;n.a.;24;19;0;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;5856;n.a.;n.a.;n.a.
+Deusche Post;DE0005552004;DAX;;;;Transportation & Logistics;Industrials;09.03.2022;31.12.;yes;no;45653;4467;1441;56;64;62;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;81747;6979;2337;1
+Deutsche Bank;DE0005140008;DAX;x;;;Banks;FIRE;11.03.2022;31.12.;no;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;1
+Deutsche Börse;DE0005810055;DAX;x;;;Financial Services;FIRE;10.02.2022;31.12.;yes;yes;0;0;0;0;0;0;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;4219;n.a.;n.a.;2,5
+Deutsche Telekom;DE0005557508;DAX;;;;Telecommunication;Telecommunication;24.02.2022;31.12.;yes;no;1996;87;10;1,8;0,2;2,1;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;108794;35665;473;1,5
+E.ON;DE000ENAG999;DAX;;;;Utilities;Utilities;16.03.2022;31.12.;yes;no;13802;3840;676;18;73;61;13614;3727;661;18;71;60;77358;5243;1111;7
+Fresenius;DE0005785604;DAX;;;;Pharma & Healthcare;Pharma & Healthcare;24.03.2022;31.12.;yes;yes;375;n.a.;n.a.;1;49;0;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;37520;n.a.;n.a.;1
+Fresenius Medical Care;DE0005785802;DAX;;;;Pharma & Healthcare;Pharma & Healthcare;23.03.2022;31.12.;yes;yes;0;n.a.;n.a.;0;53;1;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;17619;n.a.;n.a.;1,5
+Hannover Rück;DE0008402215;DAX;x;;;Insurance;FIRE;10.03.2022;31.12.;yes;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;2,5
+Heidelberg Cement;DE0006047004;DAX;;;;Construction;Industrials;24.03.2022;31.12.;yes;yes;9585;1114;822;51,2;57;55,9;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;18720;1954;1470;1,5
+Hellofresh;DE000A161408;DAX;;;;Retail;Consumer Services;01.03.2022;31.12.;no;no;0;47;58;0;10;76;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;5993;466;76;n.a.
+Henkel;DE0006048432;DAX;;;;Consumer;Consumer Goods;23.02.2022;31.12.;no;yes;0;0;0;0;0;0;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;20066;n.a.;n.a.;1,5
+Infineon;DE0006231004;DAX;x;;x;Technology;Information Technology;29.11.2021;30.09.;no;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;11060;n.a.;n.a.;n.a.
+Linde;IE00BZ12WP82;DAX;x;x;;Chemicals;Basic Materials;27.04.2022;31.12.;no;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+Mercedes-Benz Group;DE0007100000;DAX;;;;Automobile;Consumer Goods;11.03.2022;31.12.;yes;yes;132554;27946;6576;99;100;100;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;133893;27946;6576;2,5
+Merck;DE0006599905;DAX;;;;Pharma & Healthcare;Pharma & Healthcare;03.03.2022;31.12.;yes;yes;n.a.;n.a.;n.a.;ins;ins;ins;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;19687;1817;2692;3
+MTU Aero Engines;DE000A0D9PT0;DAX;;;;Industrial;Industrials;23.03.2022;31.12.;yes;no;350;130;92;8;34;33;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;4188;384;278;3
+Münchener Rück;DE0008430026;DAX;x;;;Insurance;FIRE;17.03.2022;31.12.;yes;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;1
+Porsche Automobil Holding;DE000PAH0038;DAX;;;;Automobile;Consumer Goods;29.03.2022;31.12.;no;no;0;0;0;0;0;0;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;0;1;1;4
+Puma;DE0006969603;DAX;x;;;Consumer;Consumer Goods;23.02.2022;31.12.;no;no;0;244023;0;0;54,3;0;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;6805;449445;78;n.a.
+Qiagen;NL0012169213;DAX;x;x;;Pharma & Healthcare;Pharma & Healthcare;30.04.2022;31.12.;yes;n.a.;0;n.a.;n.a.;0;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+RWE;DE0007037129;DAX;;;;Utilities;Utilities;15.03.2022;31.12.;yes;partly;4415;5280;400;18;88;25;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;24526;6000;1600;1
+SAP;DE0007164600;DAX;;;;Software;Information Technology;03.03.2022;31.12.;yes;no;9217;261;898;33;15;14;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;27842;1733;6400;2,5
+Sartorius;DE0007165631;DAX;;;;Pharma & Healthcare;Pharma & Healthcare;17.02.2022;31.12.;yes;yes;0;n.a.;n.a.;0;40;18;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;3449;n.a.;n.a.;1,5
+Siemens;DE0007236101;DAX;x;;x;Industrial;Industrials;02.12.2021;30.09.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;62265;n.a.;n.a.;n.a.
+Siemens Healthineers;DE000SHL1006;DAX;x;;x;Pharma & Healthcare;Pharma & Healthcare;25.11.2021;30.09.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;17997;n.a.;n.a.;n.a.
+Symrise;DE000SYM9999;DAX;;;;Chemicals;Basic Materials;01.03.2022;31.12.;yes;no;0;0;0;0;0;0;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;3826;n.a.;n.a.;0,5
+Volkswagen;DE0007664039;DAX;;;;Automobile;Consumer Goods;15.03.2022;31.12.;yes;no;227787;53596;9911;91;99,2;99,2;21152;14165;3265;9;26;33;250200;54039;9992;9
+Vonovia;DE000A1ML7J1;DAX;x;;;Financial Services;FIRE;18.03.2022;31.12.;yes;yes;n.a.;n.a.;n.a.;97;98;94;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;3,5
+Zalando;DE000ZAL1111;DAX;;;;Retail;Consumer Services;01.03.2022;31.12.;no;no;0;190;0;0;35,8;0;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;10229;n.a.;n.a.;1
+Aixtron;DE000A0WMPJ6;MDAX;;;;Technology;Information Technology;24.02.2022;31.12.;yes;no;243;8;43;56,7;39,2;75,6;243;8;43;57;39;76;429;19;57;7
+Aroundtown;LU1673108939;MDAX;x;;;Financial Services;FIRE;29.03.2022;31.12.;no;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+Aurubis;DE0006766504;MDAX;x;;x;Basic Resources;Basic Materials;03.12.2021;30.09.;no;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;16300;n.a.;#REF!;n.a.
+Bechtle;DE0005158703;MDAX;;;;Software;Information Technology;18.03.2022;31.12.;no;no;0;62;0;0;58,1;0;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;5305;107;n.a;2,5
+Befesa;LU1704650164;MDAX;x;;;Industrial;Industrials;30.03.2022;31.12.;no;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+Beiersdorf;DE0005200000;MDAX;;;;Consumer;Consumer Goods;01.03.2022;31.12.;yes;partly;ins;13;12;0,5;3;3;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;7627;502;408;1,5
+Cancom;DE0005419105;MDAX;;;;Software;Information Technology;29.03.2022;31.12.;no;no;0;39;0;0;42,5;0;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;1305;91;10;n.a.
+Carl Zeiss Meditec;DE0005313704;MDAX;x;;x;Pharma & Healthcare;Pharma & Healthcare;10.12.2021;30.09.;no;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;1646;n.a.;n.a.;n.a.
+Commerzbank;DE000CBK1001;MDAX;x;;;Banks;FIRE;28.03.2022;31.12.;yes;no;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+CTS Eventim;DE0005470306;MDAX;;;;Media;Consumer Services;24.03.2022;31.12.;no;no;191;16;18;47;49;55;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;408;34;33;3
+Deutsche Lufthansa;DE0008232125;MDAX;;;;Transportation & Logistics;Industrials;03.03.2022;31.12.;yes;yes;336;n.a.;n.a.;2;2;4;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;16811;n.a.;n.a.;1
+Deutsche Wohnen;DE000A0HN5C6;MDAX;x;;;Financial Services;FIRE;31.03.2022;31.12.;yes;yes;n.a.;n.a.;n.a.;88;97;97;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;4
+Dürr;DE0005565204;MDAX;;;;Industrial;Industrials;17.03.2022;31.12.;yes;yes;534;66;10;15,1;29,4;8,1;534;58;10;15;26;8;3537;226;123;5,5
+Evonik Industries;DE000EVNK013;MDAX;;;;Chemicals;Basic Materials;03.03.2022;31.12.;yes;no;2444;222;103;16;21;13;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;14955;1065;792;2
+Evotec;DE0005664809;MDAX;;x;;Pharma & Healthcare;Pharma & Healthcare;12.04.2022;31.12.;no;yes;0;0;0;0;3,5;0;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;618;n.a.;n.a.;n.a.
+Fraport;DE0005773303;MDAX;;;;Transportation & Logistics;Industrials;15.03.2022;31.12.;yes;yes;382;682;24;17,8;61,3;30,2;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;2143;1113;79;1,5
+Freenet;DE000A0Z2ZZ5;MDAX;;;;Telecommunication;Telecommunication;25.03.2022;31.12.;yes;yes;3;5;5;0,1;4,4;15,9;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;2556;122;34;2
+Fuchs Petrolub;DE000A3E5D64;MDAX;;;;Chemicals;Basic Materials;18.03.2022;31.12.;yes;yes;0;n.a.;n.a.;0;40;5;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;2871;n.a.;n.a.;2
+GEA Group;DE0006602006;MDAX;;;;Industrial;Industrials;03.03.2022;31.12.;yes;yes;293;n.a.;n.a.;6,2;6,8;3,1;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;4703;n.a.;n.a.;4
+Gerresheimer;DE000A0LD6E6;MDAX;;;;Pharma & Healthcare;Pharma & Healthcare;17.02.2022;30.11.;no;no;0;35;ins;0;13;ins;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;1498;264;53436;3
+Grand City Properties;LU0775917882;MDAX;x;;;Financial Services;FIRE;16.03.2022;31.12.;no ;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+Hugo Boss;DE000A1PHFF7;MDAX;;;;Consumer;Consumer Goods;10.03.2022;31.12.;yes;no;0;ins;ins;0;ins;ins;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;2786;257;1493;1,5
+Hypoport;DE0005493365;MDAX;x;;;Financial Services;FIRE;28.03.2022;31.12.;no;no;0;18;0;0;34;8;0;0;0;0;0;0;446;53;4;5
+Jungheinrich;DE0006219934;MDAX;;;;Industrial;Industrials;31.03.2022;31.12.;yes;yes;2332;n.a.;n.a.;55;2;4;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;4240;n.a.;n.a.;2,5
+K+S;DE000KSAG888;MDAX;;;;Chemicals;Basic Materials;10.03.2022;31.12.;yes;yes;0;n.a.;n.a.;0;0,6;0;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;3213;n.a.;n.a.;2,5
+Kion Group;DE000KGX8881;MDAX;;;;Industrial;Industrials;03.03.2022;31.12.;no;no;3272;586;141;31,8;59,7;83,2;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;10294;983;170;n.a.
+Knorr-Bremse;DE000KBX1006;MDAX;;;;Industrial;Industrials;31.03.2022;31.12.;yes;yes;536;0;n.a.;8;30;3;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;6706;0;n.a.;2
+Lanxess;DE0005470405;MDAX;;;;Chemicals;Basic Materials;11.03.2022;31.12.;yes;yes;1663;n.a.;n.a.;22;4;15;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;7557;n.a.;n.a.;3
+LEG Immobilien;DE000LEG1110;MDAX;x;;;Financial Services;FIRE;10.03.2022;31.12.;yes;n.a.;135;439;15;13,4;18,7;11,3;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;1015;2343;134;n.a.
+Nemetschek;DE0006452907;MDAX;;;;Software;Information Technology;22.03.2022;31.12.;yes;no;n.a.;n.a.;n.a.;ins;ins;ins;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;681;n.a.;n.a.;0,5
+ProSiebenSat.1 Media;DE000PSM7770;MDAX;;;;Media;Consumer Services;03.03.2022;31.12.;yes;no;0;98;28;0;8;ins;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;4494;1234;n.a.;2
+Rational;DE0007010803;MDAX;x;;;Industrial;Industrials;24.03.2022;31.12.;no;yes;0;ins;ins;0;ins;ins;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;780;26;273;n.a.
+Rheinmetall;DE0007030009;MDAX;;;;Industrial;Industrials;17.03.2022;31.12.;yes;yes;28;n.a.;n.a.;0,5;5,5;12,7;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;5658;n.a.;n.a.;2,5
+Scout24;DE000A12DM80;MDAX;;;;Media;Consumer Services;24.03.2022;31.12.;no;yes;0;0;0;0;7,1;0;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;389;n.a.;n.a.;3
+Siemens Energy;DE000ENER6Y0;MDAX;x;;x;Industrial;Industrials;07.12.2021;30.09.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+Siltronic;DE000WAF3001;MDAX;;;;Technology;Information Technology;09.03.2022;31.12.;yes;yes;0;ins;ins;0;ins;ins;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;1405;n.a.;n.a.;0,5
+Software AG;DE000A2GS401;MDAX;;;;Software;Information Technology;23.03.2022;31.12.;yes;yes;0;n.a.;n.a.;0;43,6;2,6;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;684;n.a.;n.a.;1
+Ströer;DE0007493991;MDAX;;;;Media;Consumer Services;30.03.2022;31.12.;no;yes;0;0;0;0;0;0;0;0;0;0;0;0;1627;n.a.;n.a.;1,5
+TAG Immobilien;DE0008303504;MDAX;x;;;Financial Services;FIRE;15.03.2022;31.12.;no;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+Talanx;DE000TLX1005;MDAX;x;;;Insurance;FIRE;14.03.2022;31.12.;yes;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+TeamViewer;DE000A2YN900;MDAX;;;;Software;Information Technology;16.03.2022;31.12.;yes;no;426;41;32;85;85;79;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;501;48;39;1
+Telefónica Deutschland;DE000A1J5RX9;MDAX;;;;Telecommunication;Telecommunication;02.03.2022;31.12.;no;no;3618;2078;148;47;79;52;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;7765;2613;285;3
+ThyssenKrupp;DE0007500001;MDAX;x;;x;Industrial;Industrials;18.11.2021;30.09.;no;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;34015;n.a.;n.a.;n.a.
+Uniper;DE000UNSE018;MDAX;;;;Utilities;Utilities;23.02.2022;31.12.;yes;no;935;72;114;0,6;8,1;7,3;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;163979;891;1560;3,5
+United Internet;DE0005089031;MDAX;;;;Telecommunication;Telecommunication;17.03.2022;31.12.;no;no;907;216;23;16,1;49,3;31;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;5646;438;75;n.a.
+Vantage Towers;DE000A3H3LL2;MDAX;x;x;;Telecommunication;Telecommunication;16.05.2022;31.03.;no;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+Varta;DE000A0TGJ55;MDAX;x;;;Industrial;Industrials;31.03.2022;31.12.;no;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+Wacker Chemie;DE000WCH8881;MDAX;;;;Chemicals;Basic Materials;15.03.2022;31.12.;yes;yes;4271;n.a.;n.a.;68,8;53,6;52,9;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;6208;n.a.;n.a.;2
+1&1;DE0005545503;SDAX;;;;Telecommunication;Telecommunication;17.03.2022;31.12.;no;no;0;31;1;0;46;3,8;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;3910;68;16;n.a.
+Aareal Bank;DE0005408116;SDAX;x;;;Banks;FIRE;30.03.2022;31.12.;no;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+About You;DE000A3CNK42;SDAX;x;x;;Retail;Consumer Services;24.05.2022;28.02.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+Adesso;DE000A0Z23Q5;SDAX;;;;Software;Information Technology;29.03.2022;31.12.;no;yes;0;80;0;0;73;0;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;678;110;3;2,5
+Adler Group;LU1250154413;SDAX;x;;;Financial Services;FIRE;31.03.2022;31.12.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+ADVA Optical Networking;DE000A3MQBT1;SDAX;;;;Technology;Information Technology;24.02.2022;31.12.;no;yes;0;0;0;0;0;0;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;603;n.a.;n.a.;2
+Amadeus Fire;DE0005093108;SDAX;x;;x;Industrial;Industrials;22.03.2022;31.12.;no;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;372;n.a.;n.a.;n.a.
+Atoss Software;DE0005104400;SDAX;;;;Software;Information Technology;11.03.2022;31.12.;yes;yes;0;0;0;0;0;0;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;97;n.a.;n.a.;1,5
+Auto1 Group;DE000A2LQ884;SDAX;;x;;Retail;Consumer Services;08.04.2022;31.12.;no;yes;668;n.a.;n.a.;14;84;57;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;4775;n.a.;n.a.;n.a.
+Basler;DE0005102008;SDAX;;;;Industrial;Industrials;30.03.2022;31.12.;yes;no;0;0;0;0;0;0;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;215;16;85;1
+BayWa;DE0005194062;SDAX;;;;Industrial;Industrials;24.03.2022;31.12.;no;no;1091;56;17;5,5;15,5;16,1;1071;47;17;5;13;16;19839;358;104;n.a.
+Bilfinger;DE0005909006;SDAX;;;;Industrial;Industrials;10.03.2022;31.12.;yes;no;67;23;0;2;21;0;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;3737;109;105;3
+Ceconomy;DE0007257503;SDAX;x;x;;Retail;Consumer Services;15.12.2022;30.09.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+CEWE;DE0005403901;SDAX;;;;Consumer;Consumer Goods;31.03.2022;31.12.;yes;yes;0;n.a.;n.a.;0;1,2;1,6;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;693;n.a.;n.a.;1,5
+CompuGroup Medical;DE000A288904;SDAX;;x;;Software;Information Technology;07.04.2022;31.12.;no;no;13;10;4;1,3;4,2;1,7;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;1025;241;208;n.a.
+Dermapharm Holding;DE000A2GS5D8;SDAX;x;x;;Pharma & Healthcare;Pharma & Healthcare;12.04.2022;31.12.;no;no;0;ins;0;0;ins;0;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;943;64;n.a.;n.a.
+Deutsche EuroShop;DE0007480204;SDAX;x;x;;Financial Services;FIRE;26.04.2022;31.12.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+Deutsche Pfandbriefbank;DE0008019001;SDAX;x;;;Banks;FIRE;28.03.2022;31.12.;no;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+Deutz;DE0006305006;SDAX;;;;Industrial;Industrials;14.03.2022;31.12.;yes;no;54;5;23;3,3;6,2;23;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;1617;73;100;3
+DIC Asset;DE000A1X3XX4;SDAX;x;;;Financial Services;FIRE;09.02.2022;31.12.;no;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+Drägerwerk;DE0005550636;SDAX;;;;Pharma & Healthcare;Pharma & Healthcare;03.03.2022;31.12.;no;n.a.;0;ins;ins;0;ins;ins;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;3328;n.a.;n.a.;0,5
+DWS Group;DE000DWS1007;SDAX;x;;;Financial Services;FIRE;11.03.2022;31.12.;yes;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+Eckert & Ziegler;DE0005659700;SDAX;;;;Pharma & Healthcare;Pharma & Healthcare;30.03.2022;31.12.;yes;yes;0;0;0;0;0,2;0;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;180;29;6;1,5
+Encavis;DE0006095003;SDAX;x;;;Financial Services;FIRE;29.03.2022;31.12.;no;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+Fielmann;DE0005772206;SDAX;;x;;Retail;Consumer Services;28.04.2022;31.12.;no;no;0;n.a.;0;0;2,8;0;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;1678;n.a.;14;n.a.
+flatexDEGIRO;DE000FTG1111;SDAX;x;;;Financial Services;FIRE;29.03.2022;31.12.;no;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+GFT Technologies;DE0005800601;SDAX;;;;Software;Information Technology;31.03.2022;31.12.;no;yes;0;0;ins;0;0;ins;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;566;n.a.;n.a.;1,5
+Grenke;DE000A161N30;SDAX;x;;;Financial Services;FIRE;17.03.2022;31.12.;yes;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+Hamborner REIT;DE000A3H2333;SDAX;x;;;Financial Services;FIRE;17.03.2022;31.12.;no;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+Heidelberger Druckmaschinen;DE0007314007;SDAX;x;x;;Industrial;Industrials;09.06.2022;31.03.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+Hella;DE000A13SX22;SDAX;x;x;;Automobile;Consumer Goods;18.08.2022;31.05.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+Hochtief;DE0006070006;SDAX;;;;Construction;Industrials;23.02.2022;31.12.;yes;yes;19454;160;n.a.;91;80;82;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;21378;200;n.a.;1,5
+Hornbach Holding;DE0006083405;SDAX;x;x;;Retail;Consumer Services;17.05.2022;28.02.;yes;no;24;76;7;0,4;21,3;7,9;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;5875;357;95;n.a.
+Indus Holding;DE0006200108;SDAX;;;;Industrial;Industrials;23.03.2022;31.12.;yes;no;72;0;ins;4,2;0,5;ins;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;1742;76;n.a.;1,5
+Instone Real Estate;DE000A2NBX80;SDAX;x;;;Financial Services;FIRE;17.03.2022;31.12.;yes;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+Jenoptik;DE000A2NB601;SDAX;;;;Industrial;Industrials;29.03.2022;31.12.;yes;yes;0;ins;1;0;ins;1;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;896;192;65;1
+Jost Werke;DE000JST4000;SDAX;;;;Automobile;Consumer Goods;24.03.2022;31.12.;no;no;0;n.a.;n.a.;0;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;1051;n.a.;n.a.;0,5
+Klöckner & Co;DE000KC01000;SDAX;;;;Industrial;Industrials;09.03.2022;31.12.;yes;no;ins;5;ins;ins;4,3;ins;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;7441;107;65934;3,5
+Krones;DE0006335003;SDAX;;;;Industrial;Industrials;24.03.2022;31.12.;no;no;87;2;93;2,4;1,5;7,2;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;3634;141;119;5
+KWS Saat;DE0007074007;SDAX;x;x;;Industrial;Industrials;29.09.2022;30.06.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+LPKF Laser;DE0006450000;SDAX;x;;;Industrial;Industrials;23.03.2022;31.12.;no;no;12;1;2;13;1;12;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;94;9;16;n.a.
+Metro;DE000BFB0019;SDAX;x;x;;Retail;Consumer Services;16.12.2022;30.09.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+MorphoSys;DE0006632003;SDAX;;;;Pharma & Healthcare;Pharma & Healthcare;17.03.2022;31.12.;no;yes;0;0;0;0;0;0;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;180;749;208;2
+Nagarro;DE000A3H2200;SDAX;x;x;;Software;Information Technology;29.04.2022;31.12.;no;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+New Work;DE000NWRK013;SDAX;;;;Software;Information Technology;25.03.2022;31.12.;no;yes;0;n.a.;n.a.;0;8;9;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;291;n.a.;n.a.;1,5
+Nordex;DE000A0D6554;SDAX;;;;Industrial;Industrials;29.03.2022;31.12.;no;yes;5443;210;69;100;94,9;92,4;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;5444;221;75;4
+Norma Group;DE000A1H8BV3;SDAX;;;;Industrial;Industrials;23.03.2022;31.12.;yes;no;263;3;4;24,1;5;6,9;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;1092;56;53;4
+Patrizia;DE000PAT1AG3;SDAX;x;;;Financial Services;FIRE;17.03.2022;31.12.;yes;;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+Pfeiffer Vacuum;DE0006916604;SDAX;;;;Industrial;Industrials;29.03.2022;31.12.;yes;yes;0;n.a.;n.a.;0;33,4;8,3;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;771;n.a.;n.a.;1,5
+PVA Tepla;DE0007461006;SDAX;;;;Industrial;Industrials;24.03.2022;31.12.;no;yes;0;0;0;0;0;0;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;156;n.a.;n.a.;2
+RTL Group;LU0061462528;SDAX;x;x;;Media;Consumer Services;27.04.2022;31.12.;no;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+S&T;AT0000A0E9W5;SDAX;;;;Technology;Information Technology;21.03.2022;31.12.;yes;yes;958;n.a.;n.a.;71,4;76,3;56;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;1342;n.a.;n.a.;3
+SAF-Holland;DE000SAFH001;SDAX;;;;Industrial;Industrials;17.03.2022;31.12.;no;yes;0;n.a.;0;0;0,5;0;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;1247;n.a.;n.a.;1
+Salzgitter;DE0006202005;SDAX;;;;Basic Resources;Basic Materials;21.03.2022;31.12.;no;yes;3712;n.a.;n.a.;38;75;92;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;9767;n.a.;n.a.;1,5
+Schaeffler;DE000SHA0159;SDAX;;;;Automobile;Consumer Goods;08.03.2022;31.12.;no;yes;693;n.a.;n.a.;5;25;3;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;13852;n.a.;n.a.;1,5
+secunet Security Networks;DE0007276503;SDAX;;;;Software;Information Technology;25.03.2022;31.12.;yes;yes;0;n.a.;n.a.;0;17;0;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;338;n.a.;n.a.;1
+SGL Carbon;DE0007235301;SDAX;;;;Chemicals;Basic Materials;24.03.2022;31.12.;yes;yes;403;22;31;40;44;46;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;1007;50;67;1,5
+Shop Apotheke Europe;NL0012044747;SDAX;;;;Retail;Consumer Services;02.03.2022;31.12.;yes;yes;0;0;0;0;0;13,7;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;1060;n.a.;n.a.;1,5
+Sixt;DE0007231326;SDAX;;;;Transportation & Logistics;Industrials;30.03.2022;31.12.;yes;yes;2215;3874;283;97;99;95;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;2284;3913;298;2,5
+SMA Solar Technology;DE000A0DJ6J9;SDAX;;;;Industrial;Industrials;31.03.2022;31.12.;yes;no;1013;72;56;100;100;100;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;1013;72;56;1
+Stabilus;LU1066226637;SDAX;x;;x;Industrial;Industrials;10.12.2021;30.09.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+Sto;DE0007274136;SDAX;;x;;Consumer;Consumer Goods;28.04.2022;31.12.;yes;no;852;53;9;53,6;45;22,2;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;1591;119;39;n.a.
+Stratec;DE000STRA555;SDAX;;;;Pharma & Healthcare;Pharma & Healthcare;30.03.2022;31.12.;yes;no;0;1;0;0;5;0;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;287;21;10;1,5
+Südzucker;DE0007297004;SDAX;;x;;Food & Beverages;Consumer Goods;19.05.2022;28.02.;yes;no;845;40;26;11,1;11,3;8,6;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;7599;351;298;n.a.
+SUSE;LU2333210958;SDAX;x;;;Software;Information Technology;20.01.2022;31.10.;no;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+Synlab;DE000A2TSL71;SDAX;x;;;Pharma & Healthcare;Pharma & Healthcare;16.03.2022;31.12.;no;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+Takkt;DE0007446007;SDAX;;;;Retail;Consumer Services;30.03.2022;31.12.;no;no;0;11;2;0;40;21;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;1118;27;10;2,5
+Traton;DE000TRAT0N7;SDAX;;;;Industrial;Industrials;15.03.2022;31.12.;yes;yes;28783;8652;1104;94;96;96;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;30620;9013;1150;3
+Verbio;DE000A0JL9W6;SDAX;x;x;;Industrial;Industrials;27.09.2022;30.06.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.
+Vitesco Technologies;DE000VTSC017;SDAX;;;;Automobile;Consumer Goods;25.03.2022;31.12.;yes;no;17;164;70;0,2;25,9;9,2;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;8349;631;762;2,5
+Wacker Neuson;DE000WACK012;SDAX;;;;Industrial;Industrials;29.03.2022;31.12.;no;no;29;14;0;1,6;13,6;0,4;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;1866;99;53;5
+ZEAL Network;DE000ZEAL241;SDAX;x;;;Retail;Consumer Services;24.03.2022;31.12.;no;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;83;n.a.;n.a.;n.a.
