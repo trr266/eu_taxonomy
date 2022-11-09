@@ -1,6 +1,6 @@
 # Data repository EU-Taxonomy Regulation
 
-*as of: 28 July 2022*
+*as of: 09 November 2022*
 
 
 This repository contains the data for [Großkopf, Sellhorn & Wagner (2022)](https://research.owlit.de/document/bf0947b5-36c1-3f5d-a8a9-52b02a347050). 
